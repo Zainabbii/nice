@@ -302,3 +302,4 @@ function createConfetti() {
 
 </body>
 </html>
+photo1.jpg
