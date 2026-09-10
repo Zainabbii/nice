@@ -210,9 +210,9 @@ footer {
                     </p>
     </div>
     <section class="gallery">
-        <img src="photo1.JPG" alt="Memory 1">
-        <img src="photo2.JPG" alt="Memory 2">
-        <img src="photo3.JPG" alt="Memory 3">
+       <img src="photo1.jpg" alt="Memory 1">
+<img src="photo2.jpg" alt="Memory 2">
+<img src="photo3.jpg" alt="Memory 3">
     </section>
 
    <footer>
