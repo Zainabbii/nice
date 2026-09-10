@@ -187,53 +187,41 @@ footer {
 
 <div class="hero">
 
-    <h1>🎉 Happy Birthday 🎉</h1>
+ <h1>🎉 Happy Birthday 🎉</h1>
 
-    <h2>
+<h2>
          <span style="color: yellow;">Bitch</span> 
     </h2>
-
     <p>
 
        
 
-    </p>
-
+   </p>
     <button onclick="showSurprise()">
         🎁 Click For Your Surprise
     </button>
-
     <div id="surprise" class="hidden">
-
         🎉🎂✨
         <br><br>
-
         <h2>I Hope All Your Wishes Come True! </h2>
-
-        <p>
+       <p>
       Stay happy and blessed. 
       Enjoy your day! dont forget im more nonchalant 
-              
-        </p>
-
+                    </p>
     </div>
-
     <section class="gallery">
-
         <img src="photo1.JPG" alt="Memory 1">
         <img src="photo2.JPG" alt="Memory 2">
         <img src="photo3.JPG" alt="Memory 3">
-
     </section>
 
-    <footer>
+   <footer>
         my pleasure
     </footer>
 
 </div>
 
 <script>
-
 /* BALLOONS */
 
 for (let i = 0; i < 20; i++) {
